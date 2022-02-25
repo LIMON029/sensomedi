@@ -5,6 +5,8 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 application-real-db.properties
+**/scripts/**
+appspec.yml
 errorpage.html
 ErrorController.kt
 
